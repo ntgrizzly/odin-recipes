@@ -1,0 +1,45 @@
+* {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: white;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Header two is for things such as the description header*/
+.header-two {
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.rec-list {
+    text-align: center;
+}
+
+.child-list {
+    font-size: 32px;
+    padding-top: 15px;
+}
+
+.f-image {
+    height: auto;
+    width: 300px;
+}
+
+.d-par{
+    /*Here for description paragraph*/
+}
+
+.in-list{
+    /*Here for ingredients list*/
+}
+
+.st-list{
+    /*Here for steps list*/
+}
